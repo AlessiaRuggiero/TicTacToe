@@ -1,4 +1,4 @@
-# TicTacToe_cpp
+# TicTacToe
 
 ## The Game
 #### Tic Tac Toe is a two player game in which the players take alternate turns placing marks on a 3x3 board. One player is assigned an ‘X’ marker; and the other player is assigned an ‘O’ marker. The objective of the game is to place three markers in a row, either horizontally, vertically, or diagonally. The first player to achieve this, wins.
